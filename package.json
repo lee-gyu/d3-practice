@@ -1,0 +1,16 @@
+{
+  "name": "d3-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.3",
+    "vite": "^3.2.4"
+  }
+}
